@@ -124,7 +124,7 @@ function foodnowyes_scripts() {
 
 	wp_enqueue_style('foodnowyes-content-sidebar', get_template_directory_uri() . '/layouts/content-sidebar.css');
 
-	wp_enqueue_style('foodnowyes-google-fonts', 'http://fonts.googleapis.com/css?family=Cabin:400,500,600,700,400italic,500italic,600italic,700italic|Roboto:400,400italic,500,500italic,700,700italic,900,900italic,300italic,300,100italic,100');
+	wp_enqueue_style('foodnowyes-google-fonts', 'http://fonts.googleapis.com/css?family=Questrial|Roboto:400,400italic,500,500italic,700,700italic,900,900italic,300italic,300,100italic,100');
 
 	wp_enqueue_style('foodnowyes-fontawesome', 'http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
 
